@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d2092dd-13c8-47f4-931a-420fbae18995" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/infoextract/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/infoextract/extract.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inputoutput/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inputoutput/read.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inputoutput/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inputoutput/write.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summarize/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summarize/keywords/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordembedding/__init__.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="extract.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/infoextract/extract.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8856">
+              <caret line="328" column="0" lean-forward="true" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
+              <folding>
+                <element signature="e#50#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/constants.py" />
+        <option value="$PROJECT_DIR$/inputoutput/read.py" />
+        <option value="$PROJECT_DIR$/inputoutput/write.py" />
+        <option value="$PROJECT_DIR$/inputoutput/util.py" />
+        <option value="$PROJECT_DIR$/utils/compat.py" />
+        <option value="$PROJECT_DIR$/infoextract/extract.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1918" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textmining-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textmining-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textmining-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textmining-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textmining-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textmining-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inputoutput" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textmining-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textmining-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="infoextract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="textmining-kit" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="textmining-kit" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="textmining-kit" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="textmining-kit" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="textmining-kit" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="textmining-kit" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="textmining-kit" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d2092dd-13c8-47f4-931a-420fbae18995" name="Default" comment="" />
+      <created>1488436481401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488436481401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1918" height="1028" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <marker date="1488438666213" expanded="true" signature="0:49" ph="&quot;&quot;&quot;Created on Mar 1, 2017...&quot;&quot;&quot;" />
+            <marker date="1488438666213" expanded="true" signature="74:248" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488438666213" expanded="true" signature="249:272" ph="import ..." />
+            <marker date="1488438666213" expanded="true" signature="542:1249" ph="..." />
+            <marker date="1488438666213" expanded="true" signature="1284:5674" ph="..." />
+            <marker date="1488438666213" expanded="true" signature="5691:5898" ph="..." />
+            <marker date="1488438666213" expanded="true" signature="5923:6142" ph="..." />
+            <marker date="1488438666213" expanded="true" signature="5935:6136" ph="..." />
+            <marker date="1488438666213" expanded="true" signature="7027:8121" ph="&quot;...&quot;" />
+            <marker date="1488438666213" expanded="true" signature="7052:7114" ph="..." />
+            <marker date="1488438666213" expanded="true" signature="7232:7285" ph="..." />
+            <marker date="1488438666213" expanded="true" signature="7431:7640" ph="..." />
+            <marker date="1488438666213" expanded="true" signature="8245:8444" ph="&quot;...&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputoutput/write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <marker date="1488443807896" expanded="true" signature="0:49" ph="&quot;&quot;&quot;Created on Mar 1, 2017...&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="50:126" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="127:200" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="201:448" ph="import ..." />
+            <marker date="1488443807896" expanded="true" signature="548:917" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="553:773" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="1027:1523" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="1032:1279" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="1460:1523" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="1715:2759" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="1720:2486" ph="&quot;&quot;&quot;Write JSON object all at once to disk at ``filepath``....&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="2605:2759" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="2957:4244" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="2962:3803" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="3984:4244" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="4025:4244" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="4362:5793" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="4367:5606" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="5685:5793" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="5861:6508" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="5866:6286" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="6441:6508" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="6570:7813" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="6575:7303" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443807896" expanded="true" signature="7498:7634" ph="..." />
+            <marker date="1488443807896" expanded="true" signature="7644:7813" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputoutput/read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="237" column="0" lean-forward="true" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
+          <folding>
+            <marker date="1488443710508" expanded="true" signature="0:49" ph="&quot;&quot;&quot;Created on Mar 1, 2017...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="50:128" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="129:202" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="204:466" ph="import ..." />
+            <marker date="1488443710508" expanded="true" signature="554:771" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="559:680" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="830:1078" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="835:965" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="1032:1078" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="1142:2518" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="1147:2306" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="2373:2518" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="2443:2518" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="2577:3408" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="2582:3283" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="3350:3408" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="3483:4752" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="3488:4258" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="4325:4752" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="4405:4752" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="4459:4752" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="4480:4625" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="4825:5883" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="4830:5601" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="5680:5883" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="5711:5789" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="5929:6518" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="5934:6353" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="6401:6518" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="6558:6896" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="6563:6733" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="6936:7274" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="6941:7111" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="7333:7673" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="7338:7523" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="7560:7673" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="7737:8535" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="7742:8385" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="8422:8535" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="8615:9527" ph="..." />
+            <marker date="1488443710508" expanded="true" signature="8620:9355" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443710508" expanded="true" signature="9392:9527" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputoutput/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6858">
+          <caret line="254" column="0" lean-forward="true" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+          <folding>
+            <marker date="1488443877110" expanded="true" signature="0:49" ph="&quot;&quot;&quot;Created on Mar 1, 2017...&quot;&quot;&quot;" />
+            <marker date="1488443877110" expanded="true" signature="50:123" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443877110" expanded="true" signature="124:227" ph="import ..." />
+            <marker date="1488443877110" expanded="true" signature="542:3546" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="547:1727" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443877110" expanded="true" signature="2288:2369" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="2469:3360" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="2787:2997" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="2822:2945" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="3084:3360" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="3119:3251" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="3420:3532" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="3579:3840" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="3584:3718" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443877110" expanded="true" signature="3887:4364" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="3892:4118" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443877110" expanded="true" signature="4429:6797" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="4434:6621" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443877110" expanded="true" signature="6815:7241" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="6820:6954" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443877110" expanded="true" signature="7439:10585" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="7444:8664" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443877110" expanded="true" signature="8855:9231" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="8895:9231" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="8978:9153" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443877110" expanded="true" signature="9411:10037" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="10064:10428" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="10119:10428" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="10244:10428" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="10438:10585" ph="..." />
+            <marker date="1488443877110" expanded="true" signature="10483:10585" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="57" lean-forward="false" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+          <folding>
+            <marker date="1488443924841" expanded="true" signature="0:49" ph="&quot;&quot;&quot;Created on Mar 1, 2017...&quot;&quot;&quot;" />
+            <marker date="1488443924841" expanded="true" signature="50:123" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1488443924841" expanded="true" signature="175:565" ph="..." />
+            <marker date="1488443924841" expanded="true" signature="382:440" ph="..." />
+            <marker date="1488443924841" expanded="true" signature="504:565" ph="..." />
+            <marker date="1488443924841" expanded="true" signature="572:916" ph="..." />
+            <marker date="1488443924841" expanded="true" signature="736:794" ph="..." />
+            <marker date="1488443924841" expanded="true" signature="858:916" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infoextract/extract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8856">
+          <caret line="328" column="0" lean-forward="true" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

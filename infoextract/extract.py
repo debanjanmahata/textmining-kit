@@ -249,8 +249,7 @@ def phrase_chunks(doc,
                   include_pos=None,
                   exclude_pos=None,
                   include_types=None,
-                  exclude_types=None,
-                  drop_determiners=True):
+                  exclude_types=None):
     for ent in doc.ents:
         ent.merge(ent.root.tag_, ent.text, ent.label_)
 

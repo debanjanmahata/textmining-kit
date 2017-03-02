@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d2092dd-13c8-47f4-931a-420fbae18995" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/infoextract/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/infoextract/extract.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inputoutput/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inputoutput/read.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inputoutput/util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inputoutput/write.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summarize/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summarize/keywords/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/constants.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordembedding/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoextract/extract.py" afterPath="$PROJECT_DIR$/infoextract/extract.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +20,8 @@
       <file leaf-file-name="extract.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/infoextract/extract.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8856">
-              <caret line="328" column="0" lean-forward="true" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
+            <state relative-caret-position="495">
+              <caret line="251" column="36" lean-forward="false" selection-start-line="251" selection-start-column="36" selection-end-line="251" selection-end-column="36" />
               <folding>
                 <element signature="e#50#87#0" expanded="true" />
               </folding>
@@ -295,7 +284,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1028" extended-state="0" />
+    <frame x="1" y="1" width="1918" height="1028" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -500,8 +489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/infoextract/extract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8856">
-          <caret line="328" column="0" lean-forward="true" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
+        <state relative-caret-position="495">
+          <caret line="251" column="36" lean-forward="false" selection-start-line="251" selection-start-column="36" selection-end-line="251" selection-end-column="36" />
           <folding>
             <element signature="e#50#87#0" expanded="true" />
           </folding>
